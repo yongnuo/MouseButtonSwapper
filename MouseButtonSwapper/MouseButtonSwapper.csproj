@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <ApplicationIcon>mouse.ico</ApplicationIcon>
+    <DebugType>None</DebugType>
+		<DebugSymbols>false</DebugSymbols>
+    <AssemblyName>Mouse Button Swapper</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="mouse.ico" />
+  </ItemGroup>
+
+</Project>
